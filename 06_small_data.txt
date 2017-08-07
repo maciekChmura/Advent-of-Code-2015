@@ -1,0 +1,10 @@
+turn on 1,2 through 7,9
+turn on 2,3 through 8,8
+turn off 5,1 through 9,6
+turn off 5,2 through 6,7
+turn off 3,3 through 8,6
+turn off 2,3 through 7,5
+turn on 1,2 through 9,7
+toggle 4,5 through 5,8
+toggle 5,3 through 7,6
+toggle 2,2 through 7,8
